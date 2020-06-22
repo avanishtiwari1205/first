@@ -1,0 +1,68 @@
+#slide img{
+	height: 630px;
+}
+#holly img{
+	height:160px;
+	width: 160px;
+	padding-bottom: 10px;
+}
+#holly{
+	padding-top: 43px;
+	padding-bottom: 20px;
+	background-image: linear-gradient(to right, #a89240,#5f1782);
+	
+}
+#bolly img{
+	height:160px;
+	width: 160px;
+	padding-bottom: 10px;
+}
+#bolly{
+	padding-top: 43px;
+	padding-bottom: 40px;
+	background-image: linear-gradient(to right, #7d99bd,#cf82b5);
+	
+}
+#web{
+	padding-top: 43px;
+	padding-bottom: 20px;
+	background-image: linear-gradient(to right, #9c291f,#b56b09);
+	
+	
+}
+#web img{
+	height:160px;
+	width: 160px;
+	padding-bottom: 10px;
+}
+.title::before
+{
+	content: '';
+	background:#7b1798;
+	height: 5px;
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block; 
+	transform: translateY(63px);
+}
+.title::after
+{
+	content: '';
+	background:#7b1798;
+	height: 10px;
+	width: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block; 
+	transform: translateY(8px);
+}
+.b{
+	padding-top: 100px;
+}
+.col-xl-3{
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
